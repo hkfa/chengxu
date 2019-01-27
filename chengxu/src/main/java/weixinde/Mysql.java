@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class Mysql {
 	class DB{
 		public void sql()throws  SQLException,ClassNotFoundException, IOException{
-			Connection connection=null;
+			  Connection connection=null;
 			String driver="com.mysql.jdbc.Driver";   
 			String dbURL="jdbc:mysql://127.0.0.1:3306/free?useUnicode=true&characterEncoding=utf-8&useSSL=false";  
 			String user = "root";
