@@ -1,0 +1,8 @@
+https://www.jb51.net/article/88020.htm  Mybatis
+https://blog.csdn.net/jiangsanfeng1111/article/details/50998325  文本聚类
+https://blog.csdn.net/yyt200808/article/details/48498429
+数字聚类
+
+有待改进。。。。
+really  tfidf的计算
+海明距离的计算
